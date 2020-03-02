@@ -4,9 +4,15 @@
   "description": "Example program demonstrating TDD with JavaScript.",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "jest "
   },
   "author": "Logan Frostick <frostilm@dukes.jmu.edu>",
+=======
+    "test": "jest"
+  },
+  "author": "Morgan Benton <morgan.benton@gmail.com>",
+>>>>>>> 026830dc520e8c5e7014459624d455bfe4020684
   "license": "MIT",
   "devDependencies": {
     "jest": "^25.1.0"
